@@ -55,3 +55,9 @@ header {
   display: flex;
   justify-content: center;
   }
+  img:hover{
+    transition:.50s;
+    transform:
+    translate(10px)
+    /* rotate(360deg) */
+  }
